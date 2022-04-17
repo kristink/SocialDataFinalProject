@@ -1,5 +1,5 @@
-baseURL = ""
+baseURL = 'https://kristink.github.io/SocialDataFinalProject/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "ananke"
-publishDir: "docs"
+theme = 'ananke'
+publishDir = 'docs'
