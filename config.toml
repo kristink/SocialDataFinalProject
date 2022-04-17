@@ -1,4 +1,4 @@
-baseURL = 'https://kristink.github.io/SocialDataFinalProject/'
+baseURL = "https://kristink.github.io/SocialDataFinalProject/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
